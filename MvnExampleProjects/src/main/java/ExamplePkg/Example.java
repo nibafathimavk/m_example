@@ -5,7 +5,7 @@ String name;
 int age;
 public Example()
 {
-	this("check");
+	this("name");
 	System.out.println("default");
 }
 public Example(String name)
