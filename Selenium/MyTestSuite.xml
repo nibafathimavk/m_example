@@ -1,0 +1,10 @@
+<suite name="MyTestSuit">
+	<test name="MyTest">
+		<classes>
+			<class name="testNgPkg.BasicTestNg"></class>
+			<class name="testNgPkg.basicAnnotations"></class>
+			<class name="testNgPkg.BeforeAfterMethod"></class>	
+			
+		</classes>
+	</test>
+</suite>

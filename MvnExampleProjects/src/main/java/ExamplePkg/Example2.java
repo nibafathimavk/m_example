@@ -27,4 +27,12 @@ public class Example2 {
 		System.out.println(name);
 		System.out.println(fee);
 	}
-}
+	public static void main(String[] args) {
+		Example2 e1=new Example2();
+		
+		Example2 e=new Example2(111,"niba",10000);
+		e.display();
+		
+	}
+	}
+
